@@ -8,3 +8,5 @@ const getPlanetApi = async() => {
     
 }
 getPlanetApi()
+
+//functions to get a code
